@@ -1,2 +1,0 @@
-# katas
-sharpening the blade
